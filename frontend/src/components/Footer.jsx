@@ -5,11 +5,11 @@ const Footer = () => {
     <footer>
       <div className="container">
         <div className="banner">
-            <div className="left">HARDIK</div>
+            <div className="left">Venezia Delights</div>
             <div className='right'>
                 <p>Zone-6 S V Road, kandivali (West)</p>
                 <p>Open: 10:00 AM - 10:00 PM</p>
-                <p>Phone No : 8591288189 </p>
+                <p>Phone No : 9999999999 </p>
             </div>
         </div>
         <div className="banner">
